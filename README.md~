@@ -4,4 +4,4 @@
 scrapy startproject daomubijiSpider
 
 # daomubiji_v1
-在v1版本中使用了scrapy-redis,成功在Scrpay中运用Redis数据库
+在v1版本中使用了scrapy-redis
